@@ -1,6 +1,6 @@
 # POC - SpecSync and SpecFlow
 
-This is a Proof of Concept (POC) for the usage of SpecSync and SpecFlow with .NET.
+This is a Proof of Concept (POC) for the usage of [SpecSync](https://www.specsolutions.eu/specsync/) and [SpecFlow](https://specflow.org/) with .NET.
 
 ## General Configuration
 
